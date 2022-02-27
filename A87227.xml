@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Confidence questioned: or, A brief examination of some doctrines delivered by M. Thomas Willes of Bottolphs Billings-Gate, in a sermon preached by him at Margrets New-Fish-Street, the 7th of Decemb. 1657. Also, some questions touching his pretended call and authority to preach the Gospel. By Jeremiah Ives.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87227</idno>
+            <idno type="STC">Wing I1095</idno>
+            <idno type="STC">Thomason E932_2</idno>
+            <idno type="STC">ESTC R207665</idno>
+            <idno type="EEBO-CITATION">99866703</idno>
+            <idno type="PROQUEST">99866703</idno>
+            <idno type="VID">118987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118987)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 140:E932[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Confidence questioned: or, A brief examination of some doctrines delivered by M. Thomas Willes of Bottolphs Billings-Gate, in a sermon preached by him at Margrets New-Fish-Street, the 7th of Decemb. 1657. Also, some questions touching his pretended call and authority to preach the Gospel. By Jeremiah Ives.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Daniel White, and are to be sold at the seven Stars in Paul's Church-yard; or are to be had at the author's house in Red-Cross-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658. [i.e. 1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason received his copy in December 1657.</note>
+                  <note>Annotation on Thomason copy: "Dec 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Willis, Thomas, 1619 or 20-1692.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118987:1"/>
+            <pb facs="tcp:118987:1" rendition="simple:additions"/>
+            <p>
+               <hi>Confidence queſtioned:</hi> OR, A Brief Examination Of ſome Doctrines delivered By M. <hi>THOMAS WILLES</hi> of <hi>Bottolphs</hi> Billingſ-Gate, In a Sermon preached by him At <hi>Margrets</hi> New-Fiſh-Street, the 7th of <hi>Decemb.</hi> 1657.</p>
+            <p>ALSO, Some QUESTIONS touching his pre<g ref="char:EOLhyphen"/>tended Call and Authority to preach the GOSPEL.</p>
+            <p>By <hi>Jeremiah Ives.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 18.17.</bibl>
+               <p>He that is firſt in his own cauſe, ſeemeth juſt; but his neighbour comes and ſearcheth him.</p>
+            </q>
+            <q>
+               <bibl>Rev. 2.2.</bibl>
+               <p>And haſt tried them, which ſay they are Apoſtles, and are not; and haſt found them lyers.</p>
+            </q>
+            <q>
+               <bibl>Act. 17.11.</bibl>
+               <p>Theſe were more noble then thoſe of Theſſalonica, in that they received the word with all readineſs of minde; and ſearched the Scriptures dayly, whether thoſe things were ſo.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Daniel White,</hi> and are to be ſold at the ſeven Stars in <hi>Paul</hi>'s Church-yard; or are to be had at the Author's Houſe in Red-Croſs-Street. 1685.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118987:2"/>
+            <pb facs="tcp:118987:2"/>
+            <head>To the Impartial Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is matter of great <hi>admira<g ref="char:EOLhyphen"/>tion,</hi> to ſee men ſacrificing their Reaſons and Judge<g ref="char:EOLhyphen"/>ments upon the Altar of blinde Zeal and Devotion: it is alſo matter of <hi>lamentation,</hi> to ſee men, who would be judged Chriſtians, ſuck in Opinions, as wild Aſſes do the Wind, without Trial and Examination; and ſo become impatient of contradiction: and all this while, forget that bleſſed Rule, of <hi>trying the Spirits, whether they be of God or no.</hi>
+            </p>
+            <p>I ſhall therefore ſoberly propoſe ſome Queſtions for Conſcience ſake; which I deſire may be weighed and conſidered: ſome of which Queſtions,
+<pb facs="tcp:118987:3"/>are thoſe that I had intended to have propounded to Mr. <hi>Willes</hi> in publick, had I not been prevented by a tumul<g ref="char:EOLhyphen"/>tuous Auditory: ſome, pulling and haling me; others threatning to throw me over the Gallery. If this look like a Spirit of Chriſtianity, I confeſs my ſelf to be very ignorant of a Chriſtian Spirit: ſure this Spirit is more like the Spirit of the Primitive Perſecutors, then the Primitive Profeſſors of Chriſt; and yet theſe are the Men that cry up a Reformation, according to the Primi<g ref="char:EOLhyphen"/>tive Inſtitution. If the Light of theſe enſuing Queſtions, ſhall give Light to the Conſcience of any, or their Anſwers give Light to my own Conſcience, I ſhall bleſs the Father of Lights, who hath not ſuffered me to labour in vain. That ſome ſuch good, may be the pro<g ref="char:EOLhyphen"/>duct hereof, is the deſire of him, who is thine in the ſervice of Chriſt,</p>
+            <closer>
+               <signed>Jer. Ives.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118987:3"/>
+            <head>Confidence queſtioned.</head>
+            <opener>
+               <salute>Mr. <hi>Willes,</hi>
+               </salute>
+            </opener>
+            <p>
+               <hi>IT hath always been the practice of Deceivers to ſow their Tares among the pure Wheat, and to blend their Errors with choice Truths: I ſhall not ſay, you did any ſuch thing, by deſign; but that you did it, the Light of theſe enſuing Que<g ref="char:EOLhyphen"/>ſtions will manifeſt: and if you would have me be ſo chari<g ref="char:EOLhyphen"/>table as to think you did not project ſuch a thing, I pray then do not refuſe to</hi> come to the Light that your deeds may be made manifeſt: <hi>and remember, That</hi> Truth ſeeks no corners: <hi>and if therefore you are confident of the truth of what you have delivered, fear not the face of oppoſition.</hi>
+            </p>
+            <p>
+               <hi>It is enough for Turks and Jews, Papiſts and Hereticks, to aſſert that, which they fear publickly to diſpute; be<g ref="char:EOLhyphen"/>cauſe they are conſcious of the brittleneſs of ſuch Aſſertions, and therefore are loft to hazard them in the Fire of Diſpu<g ref="char:EOLhyphen"/>tation. Let thoſe then fear the Touch-ſtone, whoſe Coyn is counterfeit, and not Men that are Goſpel-Preachers, leſt Men have occaſion to call them counterfeit-Silver.</hi>
+            </p>
+            <p>
+               <hi>I pray you therefore ſo far to honour that which you have publickly aſſerted, (if it be Truth) as to anſwer theſe Que<g ref="char:EOLhyphen"/>ſtions that relate to thoſe things which you then delivered.</hi>
+            </p>
+            <div type="part">
+               <pb n="1" facs="tcp:118987:4"/>
+               <p>ONe thing aſſerted by you, was, <hi>That it was not law<g ref="char:EOLhyphen"/>ful for any to preach ordinarily and conſtantly, but ſuch as were ordained, except it was for approbation, or in caſes of ne<g ref="char:EOLhyphen"/>ceſſity, when ſuch Ordination cannot be had.</hi>
+               </p>
+               <p>The firſt Queſtion that I deſire to be reſolved in, is,</p>
+               <p>Whether any thing can be charged as ſin upon any, but what is againſt a Divine Law? ſince the Apoſtle ſaith, <hi>Rom.</hi> 4.5. <hi>Where there is no Law, there is no tranſgreſſion.</hi> 1 John 3.4. <hi>Sin is the tranſgreſſion of a Law.</hi>
+               </p>
+               <p n="2">2. Whether by any Law of God it is a ſin for men that are gifted for the Miniſtry, to preach the truth of Chriſt to the Edification of their Brethren, although they were not put up<g ref="char:EOLhyphen"/>on it by reaſon of your ſuppoſed neceſſity, or though they ſhould never be ordained to Office.</p>
+               <p n="3">3. If there be any Law manifeſting ſuch a practiſe to be ſinful, pray tell me where that Law is written; that ſo I may ſee my error, and reform.</p>
+               <p n="4">4. If there be a liberty for gifted men to preach in order to their approbation for Office, as you confeſs, pray tell me whether they do not preach in the capacity of gifted Bre<g ref="char:EOLhyphen"/>thren before their Ordination; ſince they cannot preach by vertue of Office, while as yet they are not in it.</p>
+               <p n="5">5. If they preach as gifted Brethren before their Ordina<g ref="char:EOLhyphen"/>tion, then I quere, How long they may thus preach till their preaching becomes ſinful?</p>
+               <p n="6">6. If you ſay, Till the Miniſtry or Presbyters approve them, and are very well ſatisfied with their abilities and qualifi<g ref="char:EOLhyphen"/>cations for that imployment: then I quere, How if this man whom they approve of, is unſatisfied with their power to ordain him; is it then a ſin for him to preach till he is ſa<g ref="char:EOLhyphen"/>tisfied with their power?</p>
+               <p n="7">7. How if a man be gifted and enabled to preach the Goſpel to edification and comfort, and yet finds himſelf very ſhort of a power <hi>to rule the Church</hi> of God as that Of<g ref="char:EOLhyphen"/>fice requires, or it may be wants <hi>faithful Children,</hi> ſuch as
+<pb n="2" facs="tcp:118987:4"/>are not <hi>accuſed of ryct;</hi> it may be he hath not power over his paſſion, but may be ſoon angry, <hi>&amp;c.</hi> which are thoſe qua<g ref="char:EOLhyphen"/>lifications that <hi>Paul</hi> tells <hi>Timothy</hi> and <hi>Titus</hi> MUST be found in ſuch officers: ſee 1 <hi>Tim.</hi> 3.4, 5. <hi>Titus</hi> 1.6, 7. I quere from hence, Whether a man ſhould ſin to uſe thoſe gifts (God hath bleſſed him withal) out of Office, becauſe he hath not all thoſe qualifications that are required, before he be admitted to Office.</p>
+               <p>And whereas you ſay it is a ſin for people to hear ſuch as are not ordained, except as before excepted, I quere,</p>
+               <p n="8">8. Whether there is any Law of God broken when I hear the truth of Chriſt preached by any that are not ordained? if ſo, ſhew me where that Law is to be found.</p>
+               <p n="9">9. Whether or no <hi>Apollos</hi> did not preach the Goſpel, as is recorded, <hi>Act.</hi> 18.24, 25, 26, 27, 28. publickly and free<g ref="char:EOLhyphen"/>quently; and whether he could be an <hi>Officer</hi> of the Church at that time, ſeeing he <hi>knew ONELY the baptiſme of John,</hi> or was not acquainted with the baptiſme of the Spirit? therefore pray ſhew us that he was at this time an Officer, or elſe that he preached for approbation to it, or that he preached by vertue of any neceſſity. By vertue of neceſſity he did not preach: for, there were able Chriſtians before, ſuch as the Text ſaith did <hi>inſtruct him.</hi> And if he preached at this time as an Officer, or for approbation thereunto, pray ſhew h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w that appears.</p>
+               <p n="10">10. It is ſaid, <hi>Mal.</hi> 3.16. that <hi>THEY that feared the Lord SPAKE OFTEN one to another,</hi> &amp;c. And <hi>Heb.</hi> 10 25. It is required that we ſhould <hi>not forſake the aſſembling of our ſelves together, but exhort one another dayly,</hi> &amp;c. whe<g ref="char:EOLhyphen"/>ther by the light of theſe Texts it doth not appear, 1. That Gods people ought to meet often together. 2. That they may and ought to exhort <hi>one another,</hi> being thus aſſem<g ref="char:EOLhyphen"/>bled. 3. Whether by <hi>one another</hi> we are not to under<g ref="char:EOLhyphen"/>ſtand any one that hath a word or gift of Exhortation, as well ſuch as are no Officers, as thoſe that are?</p>
+               <p n="11">11. Is it not written, <hi>Rom.</hi> 2.1, 2. <hi>Therefore thou art inex<g ref="char:EOLhyphen"/>cuſeable,
+<pb n="4" facs="tcp:118987:5"/>Oman, whoſoever thou art that judgeſt; for where<g ref="char:EOLhyphen"/>in thou judgeſt another, thou condemneſt thy ſelf: for thou that judgeſt doeſt the ſame things.</hi> Verſ. 3. <hi>And thinkest thou this, O man, that judgeſt them that do ſuch things, and doſt the ſame, that thou ſhalt eſcape the judgement of God?</hi> Verſ. 22. <hi>Thou that abhorreſt idols, doſt thou commit ſacriledge?</hi>
+               </p>
+               <p>Whether by the light of theſe Scriptures, your darkneſs is not diſcoverd, who told the people how ſinful and dan<g ref="char:EOLhyphen"/>gerous it was to hear ſuch as Mr. <hi>Brooks;</hi> when your ſelf hath heard him once and again? And whether all the excuſes that you have for ſuch a practice, will not be arguments to juſtifie others, as well as you? And ſince you cried the hearing of ſuch Men down, as a general evil, without any exception; pray tell me, (let your pretence in hearing be what it will) how can you <hi>do evil that good may come?</hi> And whether, by the ſame pretence that you can make to hear Mr. <hi>Brooks,</hi> (if to hear him be ſinful, which is not yet proved) any man may not hear in an Idols Temple, or eat meat in an Idols Tem<g ref="char:EOLhyphen"/>ple, and ſo cauſe his weak brother to be emboldened in his way, and <hi>make him to periſh for whom Chriſt died,</hi> contrary to that in 1 <hi>Cor.</hi> 8.10, 11.</p>
+               <p n="12">12. It is ſaid, <hi>Heb.</hi> 5.12. That <hi>when for the time ye OUGHT to be teachers,</hi> &amp;c. I query from hence, Whether here is not a Duty required, and whether that Duty be not <hi>Teaching?</hi> Again, whether the perſons that the Text ſaith, <hi>OUGHT to teach,</hi> were not members out of Office? if ſo, then I query, whether that this Teaching might not as lawfully have been performed in publick Aſſemblies, as in private Families: ſince neither this, nor any other text, makes the one any more unlawful then the other: pro<g ref="char:EOLhyphen"/>vided, they have abilities to the one as well as to the other.</p>
+               <p n="13">13. It is ſaid, 1 <hi>Cor.</hi> 14.1. <hi>Follow after charity, and deſire ſpiritual gifts; but rather that ye may PROPHESIE,</hi> &amp;c. compare this Verſe with the 24. but if <hi>ALL propheſie, and there come in one that believeth not,</hi> &amp;c. and V. 31 <hi>Ye may ALL propheſie one by one, that all may learn, and all may be comforted.</hi>
+               </p>
+               <p>From theſe texts I query, whether that this was a prophe<g ref="char:EOLhyphen"/>ſying
+<pb n="5" facs="tcp:118987:5"/>by Gift or Office? if it ſhall be ſaid, It was by Offices; then I query, whether it was by ordinary or extraordinary Office? If it ſhall be ſaid, That it was by extraordinary Of<g ref="char:EOLhyphen"/>fice, then it follows, That the Apoſtle exhorted the whole Church, to covet after extraordinary Offices, when he ex<g ref="char:EOLhyphen"/>horted them to <hi>follow after charity and deſire ſpiritual gifts, but rather that THEY might PROPHESIE,</hi> v. 1.</p>
+               <p n="14">14. If it ſhall be ſaid, That Propheſying here, was an or<g ref="char:EOLhyphen"/>dinary Office; than it follows, That the whole Church are exhorted to covet to be ordinary Officers: which would be, to make the whole Body of Chriſt monſtrous. If it ſhall be ſaid, That they were not exhorted to Propheſie, as extra<g ref="char:EOLhyphen"/>ordinary, or as ordinary Offices, then I query, whether they were not to do it as gifted Brethren? ſince we never heard of any other way.</p>
+               <p n="15">15. Whereas you ſay, That none ought to preach, but thoſe that are ordained, except as before excepted, I que<g ref="char:EOLhyphen"/>ry: Among thoſe ſeveral Ordinations that are in Chriſten<g ref="char:EOLhyphen"/>dom, which of thoſe, whether ſome one of them, or all of them, be that which Chriſt approves of? If you ſay, All of them; and that the errors of the Adminiſtrators in ſome Circumſtances, doth not make the Ordination a Nullity: then I query,</p>
+               <p n="16">16. Whether one may not by this Opinion, be lawfully ordained at <hi>Rome?</hi>
+               </p>
+               <p n="17">17. If you ſhall ſay, The Proteſtant-Ordination is lawful, and that only; then I query, which of thoſe, whether the Epiſcopal, Presbyterian or Independent-Ordination, be that which is approved by Chriſt to impower the Miniſters to Preach? ſince all theſe are Proteſtants, and greatly differ in this thing<g ref="char:punc">▪</g>
+               </p>
+               <p>If you ſay, All of theſe are lawful; then were not the Miniſters of the Epiſcopal way greatly out, in crying up the Ordination by Biſhops to be the onely Authoritative Ordination, in oppoſition to that of the Presbytery? And that they did ſo, will appear, if you conſult Dr. <hi>Jer. Tay<g ref="char:EOLhyphen"/>ler,</hi> Chaplain to the late King, in his Book called <hi>Epiſcopacy
+<pb n="6" facs="tcp:118987:6"/>aſſerted,</hi> page 120, 121, 122. <hi>It is cleer</hi> (ſaith he) <hi>that Biſhops were to do ſome acts which the Presbyters COULD NOT do;</hi> one of which he calls <hi>Ordination by impoſition of Hands,</hi> which he ſaith was not to be done by Presbyters. Again, the ſaid Doctor ſaith, That <hi>the Apoſtles did impſe Hands for confirmation, which</hi> (ſaith he) <hi>was to continue in the Church; and could not be done by the ſeventy, or any MEER Presbyter.</hi> And for this he cites the conſtant practice of the Fathers, and the Opinions of divers Churches. Therefore pray tell me if this be that Ordination which a man muſt have, with<g ref="char:EOLhyphen"/>out which his Preaching is ſinful?</p>
+               <p n="19">19. Again, if you ſay, All or any the forementioned Or<g ref="char:EOLhyphen"/>dinations be lawful, then how vain a thing was it for the Presbyterians, to throw down the Government of Epiſco<g ref="char:EOLhyphen"/>pacy? why did they not rather reform it then caſhier it, ſeeing it was a power by which Miniſters might have been authorized to preach, according to God's Ordinance?</p>
+               <p n="20">20 If the Biſhops, as Biſhops, had this lawful Power, when did any Power from Chriſt deveſt them?</p>
+               <p n="21">21. If Epiſcopal Authority were of God, as the Biſhops pretend, why may not a man lawfully go ſtill to them for Or<g ref="char:EOLhyphen"/>dination, in caſe this Authority was never taken from them in an Eccleſiaſtical way?</p>
+               <p n="22">22. If you ſay, That both Presbyterian and Epiſcopal Or<g ref="char:EOLhyphen"/>dination is lawful; then I query, whether that Chriſt ever erected two ways of Ordination of Miniſters, one contrary to the other, and yet both lawful? for ſuch is the ſtate of Epi<g ref="char:EOLhyphen"/>ſcopacie and Presbytery in <hi>England</hi> one ſaith that the Pres<g ref="char:EOLhyphen"/>bytery hath no power to ordain, the other ſaith they have.</p>
+               <p n="23">23. If it is that Ordination that is among the Indepen<g ref="char:EOLhyphen"/>dents, then we have that we run for: then if one have their ſuffrage and Ordination, and this be lawful, (which I think you will not ſay) then wherein is Mr. <hi>Brooks</hi> in this to be condemned?</p>
+               <p n="24">24. Again, If you ſay, That Ordination by the Presbytery is the onely Ordination; then where was an Ordination to be had in <hi>England</hi> thirty yeers ago?</p>
+               <pb n="7" facs="tcp:118987:6"/>
+               <p n="25">25. Is it not very ſtrange that you ſhould tell the people they ſin, in hearing thoſe that are not ordained, when you never tell them, whether you mean any Ordination may ſerve, nor what Ordination of thoſe divers kindes it is that God approves of?</p>
+               <p n="26">26. Since you ſay, That none ought to preach, but they muſt be ordained, except as before excepted; then I query, whether your Ordination be derived from the Line of Suc<g ref="char:EOLhyphen"/>ceſſion, or whether it had its Original from Neceſſity, be<g ref="char:EOLhyphen"/>cauſe ſuch an Ordination by Succeſſion could not be had? This Queſtion is grounded, partly upon what you preached, partly upon what you granted me at your Houſe, <hi>viz.</hi> That <hi>where it cannot be had from a lawful ſucceſſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> power, there a man may lawfully officiate in the Office of the Miniſtery without it,</hi> and that <hi>becauſe he is put upon it through neceſſity.</hi> Since therefore (you ſay) there is but theſe two ways by which a man may be juſtified in preaching, or the people in hearing; I query now (as I did at your Houſe) by which of theſe two ways came you into the Miniſtery? for you told us, That none could pretend to Neceſſity, when it might be had by Succeſſion.</p>
+               <p n="27">27. If you ſay, By Succeſſion; then ſurely you ſucceed from <hi>Rome:</hi> if ſo, then I query, whether the Church of <hi>Rome</hi> was the Spouſe of Chriſt, and her Miniſtery and Ordinances the Miniſtery and Ordinances of Chriſt, when your Prede<g ref="char:EOLhyphen"/>ceſſors received their Ordination from them? if ſo, then,</p>
+               <p n="28">28. Whether the Church of <hi>Rome</hi> was not as good a Church when your Predeceſſors left her, as ſhe was when they re<g ref="char:EOLhyphen"/>ceived Ordination from her, which was but a little before?</p>
+               <p n="29">29. If you ſhall ſay, Here was a Succeſſion of Britiſh Mi<g ref="char:EOLhyphen"/>niſters in <hi>England</hi> before the Papal Power had to do here, or before <hi>Gregory</hi> the Pope ſent <hi>Auſtine</hi> the Monk to convert the Saxons; then I query, whether all thoſe Miniſters were not brought into ſubjection to the Papal Power, and ſo were ſwallowed up in the See of <hi>Rome?</hi> If not, then,</p>
+               <p n="20">20. Whether there was any Succeſſion of a true Church in <hi>England,</hi> who were ſeparated from the Church of <hi>Rome?</hi> if
+<pb n="8" facs="tcp:118987:7"/>there was, ſhew us where that Church was all the time the Papal Power was exerciſed here, and who were they that go<g ref="char:EOLhyphen"/>verned it; and alſo how your Ordination proceeded from this reformed, rather then from the Papal Line?</p>
+               <p n="31">31. If you ſay, It came from <hi>Rome,</hi> and not from that pre<g ref="char:EOLhyphen"/>ſuppoſed Succeſſion; then I query, if <hi>Rome</hi> was a little before <hi>Hen.</hi> 8 's time intruſted with the Adminiſtration of Chriſt's Ordinances, as a Church of Chriſt, whether it was not your ſin to leave her as <hi>a cage of every unclean thing?</hi>
+               </p>
+               <p n="32">32. If you ſay truly of her, (as indeed you do) that ſhe was <hi>the cage of every unclean thing;</hi> how then could ſhe diſ<g ref="char:EOLhyphen"/>penſe at that time ſo ſacred an Ordinance as Ordination of Goſpel-Miniſters is by you judged to be?</p>
+               <p n="33">33. If you <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> She had power as a Church, and you did ſeparate becauſe of her corruptions, that you might ſerve the Lord with more purity; then I query, whether you are not guilty of that evil your ſelf, (if yet it be an evil) which you charge upon Mr. <hi>Brooks</hi> in ſeparating from the halt &amp; maimed?</p>
+               <p n="34">34. Whether it hath not been common for thoſe of your way, to ſeparate from the Papiſts, and yet take their Tythes, and (to uſe your own phraſe) ſheer thoſe lame and diſeaſed Sheep, which you have denied to admit into the Fold with you?</p>
+               <p n="35">35. If you ſay, They might (if they would reform) have com<g ref="char:EOLhyphen"/>munion with you; I query then, whether this very Objecti-that cauſeth you to exclude Papiſts, be not the reaſon why Mr. <hi>Brooks</hi> refuſeth ſcandalous Proteſtants and other pro<g ref="char:EOLhyphen"/>phane people, <hi>viz.</hi> becauſe they do not reform?</p>
+               <p n="36">36. If you ſhall deny this Succeſſion, and ſay, That there was none, and that it was loſt; then I query, whether this be not a ſingular and private Opinion of your own, differing from the reſt of your Brethren?</p>
+               <p n="37">37. If that Ordination from <hi>Rome,</hi> and receiving holy Or<g ref="char:EOLhyphen"/>ders from thence, was thrown off upon a politick account, as doubtleſs it was at firſt, though ſince we have declined it upon more religious conſiderations) then I query, how any body could pretend to the Argument of Neceſſity to preach without Ordination?</p>
+               <pb n="9" facs="tcp:118987:7"/>
+               <p n="38">38. Whether or no, when the Line of Succeſſion was broke, it was not lawful THEN for every one to preach that could; although it might not have been lawful before? be<g ref="char:EOLhyphen"/>cauſe Neceſſity puts one lawfully upon that work, where a ſucceſſive Ordination cannot be had, by your own Maxim.</p>
+               <p n="39">39. If it were true (as you ſay) that none ought to preach while the ſucceſſive Ordination of Chriſt remains un-inter<g ref="char:EOLhyphen"/>rupted, but ſuch as are lawfully ordained, (which is the great thing in queſtion) how doth it become a ſin for men that are gifted to preach, ſince there is no ſuch Ordination now on foot, but that which men put themſelves upon through ne<g ref="char:EOLhyphen"/>ciſſity, and want of the other by Succeſſion?</p>
+               <p n="40">40. Whereas you ſay, You can baptize the children of wicked Parents; I query, what Ground you have in Scripture ſo to do?</p>
+               <p n="41">41. Whether to baptize the children of wicked Parents, be not contrary to the Opinion of thoſe which your ſelf calls the reformed Churches?</p>
+               <p n="42">42. Whereas you ſaid, That the Fifth-monarchy-men were as the ſmoak of the bottomleſs pit, and that their Prin<g ref="char:EOLhyphen"/>ciples did raſe the Foundation of Religion; I query, whe<g ref="char:EOLhyphen"/>ther they were not called <hi>Fifth-monarchy men,</hi> becauſe they did believe, that when the <hi>Caldean</hi> Monarchy, and the Mo<g ref="char:EOLhyphen"/>narchy of the <hi>Medes</hi> and <hi>Perſians,</hi> and the <hi>Grecian</hi> and <hi>Roman</hi> Monarchy ſhould be wholly extirpated, that then the Lord himſelf ſhould ſet up a Fifth monarchy, which ſhould ſucceed theſe four, <hi>of whoſe kingdom there ſhould be no end;</hi> according to that of <hi>Dan.</hi> 7.23, 24.</p>
+               <p n="43">43. If this principle were grounded upon this and ſuch<g ref="char:EOLhyphen"/>like ſayings in Scripture, what reaſon had you to cry out a<g ref="char:EOLhyphen"/>gainſt it?</p>
+               <p n="44">44. If you ſay, It was becauſe of the evil practice of ſome of them in theſe later times; I do thereupon query, If this be a good Argument: Some of their practices were bad; <hi>Ergo,</hi> their principle is bad. Whether a man might not have ſaid the ſame both of the Epiſcopal and Presbyterian way, ſince that ſome of them were ſuch as engaged the Nation in War
+<pb n="10" facs="tcp:118987:8"/>and Blood, more then ever thoſe were like to do you call Fifth-monarchy-men? but this ſurely is un-man-like rea<g ref="char:EOLhyphen"/>ſoning.</p>
+               <p n="45">45. Whereas you would ſeem to blame Mr. <hi>Brooks</hi> for harſh Judgement, I query, whether your Judgement was charitable when you decried the Fifth-monarchy-men as ſo many monſtrous Hereticks, that raſe the Foundation, without any kinde of exception; eſpecially conſidering what Ground there is for it in God's Word, &amp; alſo that it was the Opinion of many men both ancient and modern: for <hi>Juſtin Martyr</hi> in his Apology to <hi>Antonius</hi> the Emperour, aſſerts the thou<g ref="char:EOLhyphen"/>ſand yeers Reign of Chriſt upon Earth: and he further ſaith in his Dialogue againſt <hi>Tryphon,</hi> that <hi>it was the belief OF ALL CHRISTIANS exactly Orthodox.</hi> And of later times, we have Mr. <hi>Robert Matton,</hi> Mr. <hi>Archer,</hi> Mr. <hi>Mead,</hi> Doctor <hi>Twiſſe,</hi> Mr. <hi>Ephraim Hewit,</hi> Mr. <hi>Parker</hi> of <hi>New-England,</hi> Doctor <hi>Homes,</hi> Mr. <hi>Thomas Goodwin,</hi> and Mr. <hi>Jo<g ref="char:EOLhyphen"/>ſeph Caryl,</hi> who upon his peruſal of Doctor <hi>Homes</hi> his Book, ſaith, That <hi>it is Truth confirmed by Scripture, and the testimony of ancient and modern Writers of all ſorts.</hi>
+               </p>
+               <p n="46">46. And whereas you told me when I was at your Houſe, you would ſtop my mouth; I cannot think you meant to ſtop my mouth with ſound Arguments; for that you refuſe to do, though I did deſire it of you once and again: and if you meant to do it, it muſt be either by a ſecular power, or ani<g ref="char:EOLhyphen"/>mating the people to rudeneſs; for I know no other way, ſeeing you refuſed the firſt: then I query, whether in ſo do<g ref="char:EOLhyphen"/>ing (ſuppoſing me to have erred) you walk according to that Rule that tells you, that <hi>with meekneſs you ſhould inſtruct thoſe that oppoſe themſelves,</hi> &amp;c. 2 <hi>Tim.</hi> 2.24.</p>
+               <p n="47">47. Doth not the Scripture ſay, That the Miniſter of Chriſt muſt be an example to a Believer in charity? 1 <hi>Tim.</hi> 4.12. I query then, whether backbiting, tale-bearing, and taking up a reproach againſt your Neighbour, be not contrary to the law of Charity: and whether you were not guilty of this, when you told a Gentleman that lives at High-gate, who is ready to witneſs the Truth hereof, That you were enformed I was a
+<pb n="11" facs="tcp:118987:8"/>Jeſuite; and therefore told him he would do well to appre<g ref="char:EOLhyphen"/>hend me. Truely Sir, if you do not tell me who informed you, I ſhall ſay it was a ſlander of your own deviſing, either thereby to take away my life; for that is the puniſhment the Law hath provided for Jeſuites, by the Stat. of <hi>Eliz.</hi> 27.2. or elſe (if that Gentleman would have been ruled by you that I might have been laid in Goal right or wrong, to the undo<g ref="char:EOLhyphen"/>ing of my ſelf and Family, till I could have cleered my ſelf of the ſuppoſed crime in open Seſſions. This muſt need be your deſign, otherwiſe why did you encourage him to appre<g ref="char:EOLhyphen"/>hend me as a Jeſuite? but more of this in a more conveni<g ref="char:EOLhyphen"/>ent place, where I doubt not of reparation: only let me tell you, That if you could as eaſily prove the Affirmative, <hi>viz.</hi> That you are ſent of God to preach, and that all you preach is true, as I can prove the Negative, that I am no Jeſuite, the controverſie between us would ſoon be ended.</p>
+               <p>Theſe things I leave to your conſideration, and ſhall truſt God with the ſucceſs; and ſubſcribe my ſelf,</p>
+               <closer>
+                  <dateline>
+                     <hi>London</hi> 
+                     <date>Decemb. 16. 1657.</date>
+                  </dateline>
+                  <signed>Your Friend as far as you are the Truths, <hi>Jer. Ives.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="12" facs="tcp:118987:9"/>
+            <head>Poſtſcript.</head>
+            <p>LEſt any ſhould think, that I am againſt Government in the Church of God, and that I am againſt the Ordination of Miniſters, or the like: let me tell them that ſo think, that they are miſtaken: for God hath ordained a Government, and I know we muſt <hi>ſubmit to them that labour among us, and are OVER us in the Lord, and eſteem them very highly for their works ſake, 1</hi> Theſſ. <hi>5.12, 13. 1</hi> Tim. <hi>5.17. The elders that rule well are worthy of double honour.</hi>
+            </p>
+            <p>And whereas ſome paſſages herein contained, do relate to ſomewhat that was ſpoken by Mr. <hi>Willes</hi> at his Houſe when I was with him in private; for the Reader's further ſatisfaction therein, touching the Truth thereof, if he pleaſe to call at my Houſe in Red-Croſs-ſtreet, I ſhall direct him to thoſe who can ſufficiently inform him of the truth thereof, being there preſent at the ſame time.</p>
+            <p>And whereas Mr. <hi>Willes</hi> did tell the people, that none could lawfully preach but thoſe that were ordained, unleſs it were ſuch as were put upon that work by neceſſity, where ſuch Ordination could not be had; I thereupon went to his Houſe with ſome Friends, and did deſire him in love to prove himſelf a Miniſter of Chriſt, either by Ordination from a lawful Succeſſion, or elſe that he was put upon it by any neceſſity: and this I preſſed upon him for an hour and half together, and he refuſed (as divers can witneſs) to prove himſelf a Miniſter either one way or other. And I fur<g ref="char:EOLhyphen"/>ther deſired him, that he would diſpute thoſe things in publick that he had ſo publickly aſſerted; but this he utterly refuſed, though I promiſed him to diſpute, according to the known Laws of Diſpu<g ref="char:EOLhyphen"/>tation.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <p>Page 1. line 14. for <hi>loft,</hi> read <hi>10th</hi> pag. 10. l. 9. r. <hi>of many good men.</hi>
+            </p>
+            <pb facs="tcp:118987:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
